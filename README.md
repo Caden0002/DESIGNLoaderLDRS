@@ -1,8 +1,25 @@
-# React + Vite
+![](https://github.com/Caden0002/DESIGNLoaderLDRS/blob/main/LoaderLDRS.gif)
+#### How to Install and Run the Project ####
+1. Open Terminal at the project's CD<br />
+2. rm -rf node_modules && rm package-lock.json && npm install<br />
+3. npm run dev<br />
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+# DESIGNLoaderLDRS
+This project shows you how to implement a quick preloader in React <br />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Learn more about LDRS Preloader in React here:<br />
+https://medium.com/@caden0002/setting-up-a-quick-and-sleek-preloader-component-with-react-and-ldrs-df54893ea5f8
+
+Learn more about Counter Loading Screen in React with React Spring here:<br />
+https://medium.com/stackademic/how-to-easily-create-an-animated-count-loading-screen-with-react-spring-327ce6d68180
+
+## Tech Stack ##
+React<br />
+Tailwind<br />
+LDRS<br />
+
+
+
+
+
